@@ -3,7 +3,7 @@ import json
 def lambda_handler(event,context):
      x = {
         "name": "Sreeni",
-        "message": "Hello World from Github1",
+        "message": "Hello World from Github2",
         "city": "Atlanta"
         }
 
